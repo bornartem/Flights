@@ -1,4 +1,4 @@
-package org.example.model;
+package com.gridnine.testing.model;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
